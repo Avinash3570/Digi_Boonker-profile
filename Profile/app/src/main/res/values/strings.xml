@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="username">Username :</string>
+    <string name="username_id">Avinash Kumar</string>
+    <string name="Email">Email :</string>
+    <string name="Email_id">Kravi3570iitj@gmail.com</string>
+    <string name="Phone_number">Phone No. :</string>
+    <string name="Phone_number_id">+91 9971206834</string>
+    <string name="Address">Add :</string>
+    <string name="Add_id">Patwatoli, Manpur, gaya, bihar - 823003</string>
+    <string name="Logout">Log Out</string>
+</resources>

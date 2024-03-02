@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Add_id">Patwatoli, Manpur, gaya, bihar - 823003</string>
+    <string name="Address">Add :</string>
+    <string name="Email">Email :</string>
+    <string name="Email_id">Kravi3570iitj@gmail.com</string>
+    <string name="Logout">Log Out</string>
+    <string name="Phone_number">Phone No. :</string>
+    <string name="Phone_number_id">+91 9971206834</string>
+    <string name="app_name">Profile</string>
+    <string name="username">Username :</string>
+    <string name="username_id">Avinash Kumar</string>
+    <style name="Base.Theme.Profile" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Profile" parent="Base.Theme.Profile"/>
+    <style name="roundedImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
