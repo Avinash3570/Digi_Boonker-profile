@@ -40,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../OneDrive/Desktop/Projects/Digital boonkers" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -58,7 +58,8 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/kravi/OneDrive/Desktop/Projects/New folder/Profile"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/kravi/OneDrive/Desktop/Projects/New folder (2)/Profile"
   }
 }]]></component>
   <component name="RecentsManager">
